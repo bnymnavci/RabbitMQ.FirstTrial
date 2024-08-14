@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    healthcheck:
+      test: rabbitmq-diagnostics -q ping
+      interval: 30s
+      timeout: 30s
+      retries: 3
+    networks:
+      - services-network
+
+
+  publisher:
+    build:
+      context: ./RabbitMQPublisher
+      dockerfile: RabbitMQPublisher/Dockerfile
+    environment:
+      - RABBITMQ_HOST=rabbitmq
+    networks:
+      - services-network
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+
+  consumer:
+    build:
+      context: ./RabbitMQConsumer
+      dockerfile: RabbitMQConsumer/Dockerfile
+    environment:
+      - RABBITMQ_HOST=rabbitmq
+    networks:
+      - services-network
+    depends_on:
+      - rabbitmq
+    scale: 3
+    restart: unless-stopped
+
+
+networks:
+  services-network:
+    name: services-network
+    driver: bridge
+
