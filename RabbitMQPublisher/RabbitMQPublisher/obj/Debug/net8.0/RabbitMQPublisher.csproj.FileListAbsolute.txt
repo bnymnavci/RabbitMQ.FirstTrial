@@ -1,0 +1,17 @@
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\net8.0\RabbitMQPublisher.exe
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\net8.0\RabbitMQPublisher.deps.json
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\net8.0\RabbitMQPublisher.runtimeconfig.json
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\net8.0\RabbitMQPublisher.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\net8.0\RabbitMQPublisher.pdb
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.csproj.AssemblyReference.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.AssemblyInfoInputs.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.AssemblyInfo.cs
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.csproj.CopyComplete
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\refint\RabbitMQPublisher.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.pdb
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\RabbitMQPublisher.genruntimeconfig.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\net8.0\ref\RabbitMQPublisher.dll
