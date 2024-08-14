@@ -1,0 +1,17 @@
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\net8.0\RabbitMQConsumer.exe
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\net8.0\RabbitMQConsumer.deps.json
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\net8.0\RabbitMQConsumer.runtimeconfig.json
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\net8.0\RabbitMQConsumer.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\net8.0\RabbitMQConsumer.pdb
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.csproj.AssemblyReference.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.AssemblyInfoInputs.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.AssemblyInfo.cs
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.csproj.CopyComplete
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\refint\RabbitMQConsumer.dll
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.pdb
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\RabbitMQConsumer.genruntimeconfig.cache
+C:\Users\Semih\OneDrive\Masaüstü\SecuritasCase.Projects\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\net8.0\ref\RabbitMQConsumer.dll
